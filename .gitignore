@@ -1,0 +1,5 @@
+assets/
+fpdf/
+screenshot/
+original/
+!original/README.md
